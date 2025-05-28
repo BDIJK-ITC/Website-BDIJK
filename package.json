@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@splinetool/react-spline": "^2.2.6",
+    "@splinetool/runtime": "^1.0.51",
     "@tinymce/tinymce-react": "^4.3.2",
     "lucide-react": "^0.344.0",
     "react": "^18.3.1",
